@@ -65,18 +65,10 @@ const Footer = () => {
                 <p>&copy; Workflow, Inc. All rights reserved.</p>
             </div>
             <div>
-                <a href="https://www.facebook.com/" target='_blank'>
                     <FaFacebook size={20} style={{color:"d3d3d3",marginRight:"10px"}}/>
-                </a>
-                <a href="https://www.instagram.com/" target='_blank'>
                     <FaInstagram size={20} style={{color:"d3d3d3",marginRight:"10px"}}/>
-                </a>
-                <a href="https://www.linkedin.com/in/hassan-shan/" target="_blank">
                     <FaLinkedin size={20} style={{color:"d3d3d3",marginRight:"10px"}}/>
-                </a>
-                <a href="https://github.com/HassanShanJava/Aptive-App-Router.git" target='_blank'>
                     <FaGithub size={20} style={{color:"d3d3d3",marginRight:"10px"}}/>
-                </a>
             </div>
 
         </div>
